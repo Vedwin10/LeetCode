@@ -25,11 +25,11 @@ ProblemName/
 
 ---
 
-## Progress
+## Problems Solved
 
-- Problems solved: **1**
-- Languages used: `C++`
-- Updated regularly
+- **Easy:** 2
+- **Medium:** 0
+- **Hard:** 0 
 
 ---
 
