@@ -9,11 +9,11 @@ This repo is a collection of problems I've solved to strengthen my understanding
 
 Each folder corresponds to one LeetCode problem and contains:
 
+```plaintext
 ProblemName/
-
--- problem.txt # Problem description
-
--- solution.cpp # Solution in C++
+-- problem.txt       # Problem description
+-- solution.cpp      # Solution in C++
+```
 
 ---
 
