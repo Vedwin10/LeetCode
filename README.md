@@ -49,7 +49,7 @@ This is a personal project, but feel free to explore, suggest improvements, or d
 
 ## 📎 License
 
-This project is open for educational and reference purposes.
+Please view the custom LICENSE.
 
 ## Contact
 
