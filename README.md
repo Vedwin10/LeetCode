@@ -1,11 +1,11 @@
 # LeetCode Solutions Repository
 
-Welcome to my personal repository of LeetCode solutions! 🧠✨  
-This repo is a collection of problems I've solved to strengthen my understanding of **Data Structures and Algorithms**, and to grow comfortable coding in both **C++** and **Python**.
+Welcome to my personal repository of LeetCode solutions.
+This repo is a collection of problems I've solved to strengthen my understanding of **Data Structures and Algorithms**.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 Each folder corresponds to one LeetCode problem and contains:
 
@@ -41,13 +41,13 @@ This repo is both:
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 This is a personal project, but feel free to explore, suggest improvements, or discuss different approaches.
 
 ---
 
-## 📎 License
+## License
 
 Please view the custom LICENSE.
 
