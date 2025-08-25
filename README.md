@@ -54,4 +54,5 @@ Please view the custom LICENSE.
 ## Contact
 
 **email:** justvedik@gmail.com
+
 **linkedin:** https://www.linkedin.com/in/vedikupadhyay/
