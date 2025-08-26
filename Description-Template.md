@@ -1,3 +1,14 @@
-## Hello
+# 0. Leetcode Problem Name
 
-This is a markdown file (I hope)
+<span style="color:red">DIFFICULTY</span>
+
+## Problem
+
+Solve x, y, z, given so and so situation. Use `var` for variables.
+ 
+## Examples
+
+
+
+## Constraints
+
