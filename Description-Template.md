@@ -1,6 +1,6 @@
 # 0. Leetcode Problem Name
 
-<span style="color:red">DIFFICULTY</span>
+`Difficulty`
 
 ## Problem
 
@@ -8,7 +8,16 @@ Solve x, y, z, given so and so situation. Use `var` for variables.
  
 ## Examples
 
+**Example 1:**
 
+> Input: strs = ["example"]
+> 
+> Output: true
+> 
+> Explanation:
+> 
+> - Use this format for examples
 
 ## Constraints
 
+- `1 <= n <= 100`
