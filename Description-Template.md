@@ -10,11 +10,11 @@ Solve x, y, z, given so and so situation. Use `var` for variables.
 
 **Example 1:**
 
-> Input: strs = ["example"]
+> **Input:** strs = ["example"]
 > 
-> Output: true
+> **Output:** true
 > 
-> Explanation:
+> **Explanation:**
 > 
 > - Use this format for examples
 
