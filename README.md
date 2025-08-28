@@ -28,8 +28,9 @@ ProblemName/
 ## Problems Solved
 
 - **Easy:** 3
-- **Medium:** 4
+- **Medium:** 5
 - **Hard:** 0 
+**Total:** 8
 
 ---
 
