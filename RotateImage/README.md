@@ -1,6 +1,6 @@
-# 1. Two Sum
+# 48. Rotate Image
 
-`Easy`
+`Medium`
 
 ## Problem
 
