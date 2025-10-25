@@ -27,7 +27,7 @@ ProblemName/
 
 ## Problems Solved
 
-- **Easy:** 4
+- **Easy:** 5
 - **Medium:** 11
 - **Hard:** 0
 **Total:** 13
