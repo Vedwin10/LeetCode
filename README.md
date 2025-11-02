@@ -29,9 +29,9 @@ ProblemName/
 
 - **Easy:** 10
 - **Medium:** 23
-- **Hard:** 2
+- **Hard:** 3
 
-**Total:** 35
+**Total:** 36
 
 ---
 
