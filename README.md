@@ -28,10 +28,10 @@ ProblemName/
 ## Problems Solved
 
 - **Easy:** 9
-- **Medium:** 22
+- **Medium:** 23
 - **Hard:** 2
 
-**Total:** 33
+**Total:** 34
 
 ---
 
