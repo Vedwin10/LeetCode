@@ -1,19 +1,16 @@
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
-        vector<vector<int>> og = matrix;
+        reverse(matrix.begin(), matrix.end());
         for (int i = 0; i < matrix.size(); ++i) {
-            for (int j = 0; j < matrix.size(); ++j) {
-                matrix[i][j] = og[matrix.size() - 1 - j][i];
+            for (int j = i + 1; j < matrix.size(); ++j) {
+                swap(matrix[i][j], matrix[j][i]);
             }
         }
     }
 };
 
-// There's a number pattern here, each new row is just the combination of the ith element of each original row,
-// starting from the last row
-
-// Another more intuitive way to do it:
+// The intuitive way to do it:
 
 /*
  * clockwise rotate
