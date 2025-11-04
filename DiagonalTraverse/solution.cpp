@@ -48,7 +48,6 @@ public:
 // Same for both cases of switching from down to up
 // For step 3, just move up and right 1 or down and left 1 based on direction
 
-
 // Intuitive way:
 // Essentially, we can see that row+col is equal to some value across each diagonal. If that value is even, we go up-right,
 // else, down-left.
