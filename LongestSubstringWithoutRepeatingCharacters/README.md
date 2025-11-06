@@ -1,6 +1,6 @@
 # 3. Longest Substring Without Repeating Characters
 
-`Easy`
+`Medium`
 
 ## Problem
 
