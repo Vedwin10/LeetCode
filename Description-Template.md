@@ -4,7 +4,7 @@
 
 ## Problem
 
-Solve x, y, z, given so and so situation. Use `var₀₁₂₃₄₅₆₇₈₉ᵢⱼ` for variables.
+Solve x, y, z, given so and so situation. Use `var₀₁₂₃₄₅₆₇₈₉ᵢ₊₋` for variables.
  
 ## Examples
 
