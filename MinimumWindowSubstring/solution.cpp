@@ -35,7 +35,7 @@ public:
     }
 };
 
-// The way that this algorithm works is that you 2 pointers, starting at 0 (for strings length 1)
+// The way that this algorithm works is that you have 2 pointers, starting at 0 (for strings length 1)
 // until r reaches the end, we run the following:
 // if the current window matches t (which we track with have and need), we shrink from l until the window no longer matches, updating the min length and start index each time
 // if l is a character in t, we decrease that char in s_map, and if it's freq drops below t, we now need 1 more var so we do --have
